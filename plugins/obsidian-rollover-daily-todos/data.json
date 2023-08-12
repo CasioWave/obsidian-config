@@ -1,0 +1,6 @@
+{
+  "templateHeading": "## 🗺️ Plan for the day",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": false,
+  "rolloverChildren": true
+}

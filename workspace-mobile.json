@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d92c6b99ff06dd0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eaa05193008c87d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "156a3466b8ab53a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Journal/J-27-01-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "726300d16ad3c764",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "006c590f59792f73",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9fc06164556ca5e1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fea1e4eea9c92e52",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "886c9514166c1c26",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "19bad89f7636c34d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "36cbe07b54c2a857",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal/Journal/J-27-01-2023.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1789bbb069247fb3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Personal/Journal/J-27-01-2023.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "92ac1504baeb3e6c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Personal/Journal/J-27-01-2023.md"
+          }
+        }
+      },
+      {
+        "id": "2001a959e1f9e287",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "fe62c3f431d38de9",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "0a382d0c881c2f0f",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "be9e3be0c7a15f5c",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "156a3466b8ab53a9",
+  "lastOpenFiles": [
+    "Regular Notes/Daily/27 Jan, 2023.md",
+    "Regular Notes/Daily/26 Jan, 2023.md",
+    "Regular Notes/Daily/18 Jan, 2023.md",
+    "Personal/Journal/J-15-01-2023.md",
+    "Regular Notes/Daily/15 Jan, 2023.md",
+    "Personal/Journal/J-10-01-2023.md",
+    "Regular Notes/Daily/10 Jan, 2023.md",
+    "Regular Notes/Daily/11 Jan, 2023.md"
+  ]
+}

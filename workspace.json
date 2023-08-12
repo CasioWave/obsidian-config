@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "d92c6b99ff06dd0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ed12988f6a54a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dde8dde059879a8",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Academic/Doubts/Doubts.md"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0372ba78c4daf706",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da7b764fd0931c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3bb162813e426c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18d21ad2ce9929b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4029b2e9b913c4fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "97e7e48c5fd5b183",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1286c5a7c5702ee",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5150947570801,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e67566ad540dc8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "acfb19fdab35cad9",
+        "type": "tabs",
+        "dimension": 35.655362053162236,
+        "children": [
+          {
+            "id": "ad7835028cc5a64b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Academic/Doubts/Doubts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d05cf793407db22c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24767c83776cc941",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Academic/Doubts/Doubts.md"
+              }
+            }
+          },
+          {
+            "id": "fe028c1a4ca87e11",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9802db2780ab78da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b949cadf1b73eef",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "21d765d3193725e8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1c45db5dc5bad06",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "e5cd85c44a6dadd3",
+        "type": "tabs",
+        "dimension": 18.331805682859763,
+        "children": [
+          {
+            "id": "69f408799872c2c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academic/Doubts/Doubts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "446ce3811a7e9e80",
+        "type": "tabs",
+        "dimension": 27.68102658111824,
+        "children": [
+          {
+            "id": "921aaf0dbb1b31ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regular Notes/Daily/06 Aug, 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "965ff4574ec343df",
+        "type": "tabs",
+        "dimension": 18.331805682859763,
+        "children": [
+          {
+            "id": "f8b3861a8ddd74e8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Academic/Doubts/Doubts.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3810551250344109,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "7dde8dde059879a8",
+  "lastOpenFiles": [
+    "Regular Notes/Daily/12 Aug, 2023.md",
+    "Personal/Journal/J-12-08-2023.md",
+    "Regular Notes/Daily/11 Aug, 2023.md",
+    "Regular Notes/Daily/10 Aug, 2023.md",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/Overall Plan.canvas",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/Minutes of meetings.md",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/Brochure.md",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/Preliminary draft.md",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/Mentor Recommendation Form.md",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/Requirement Form (Preliminary - For Finance).md",
+    "Hobbies/Inquivesta Work/Exhibition Stuff/FAQ.md",
+    "Regular Notes/Daily/09 Aug, 2023.md",
+    "Academic/Book Notes/Reading List.md",
+    "Templates/Daily Note Template.md",
+    "Academic/Book Notes/Introduction to Special Relativity - Resnick.md",
+    "Academic/Book Notes/Linear Algebra Done Right - Sheldon Axler.md",
+    "Resources/Books/Topics/Mathematics/Linear Algebra/978-3-319-11080-6.pdf",
+    "Academic/Book Notes/Introduction to Electrodynamics - David J Griffiths.md",
+    "Regular Notes/Daily/08 Aug, 2023.md",
+    "Personal/Journal/J-08-08-2023.md",
+    "Academic/Book Notes/Special Relativity - AP French.md",
+    "Academic/Physics/Courses/NPTEL - Numerical Methods and Simulation Techniques for Scientists and Engineers/W1L1 - Introduction, Error Analysis.md",
+    "Academic/Physics/Courses/NPTEL - Numerical Methods and Simulation Techniques for Scientists and Engineers/NPTEL Numerical Methods and Simulation Methods for Scientists and Engineers.md",
+    "Academic/Physics/Courses/NPTEL - Numerical Methods and Simulation Techniques for Scientists and Engineers/NPTEL - Numerical and Simulation methods Course Plan.md",
+    "Academic/Book Notes/Berkeley Physics Course Waves by F S Crawford Jr -.md",
+    "Academic/Book Notes/BASIC COURSE IN REAL ANALYSIS - AJIT KUMARESAN KUMAR (S).md",
+    "Personal/Daily Spending - Budget.md",
+    "Academic/Physics/Courses/PH2102/PH2102 Course Plan.md",
+    "Resources/Books/Topics/Physics/Waves/Frank S. Crawford Jr. - Waves (Berkeley Physics Course, Volume 3)-Mcgraw-Hill Book Comp. (1968).pdf",
+    "Resources/Books/Topics/Mathematics/Analysis/abbott_real_analysis.pdf",
+    "Resources/Books/Topics/Mathematics/Analysis/Stephen Abbott - Understanding Analysis (with Instructor's Solutions Manual) (2010, Springer) - libgen.li.pdf",
+    "Resources/Books/Topics/Physics/Feynman Lectures/Richard P. Feynman_ Robert B. Leighton_ Matthew Sands - The Feynman Lectures on Physics_ Mainly Mechanics, Radiation, and Heat. Vol. 1-Basic Books (2013).pdf",
+    "Resources/Books/Topics/Physics/Mechanics/(The M. I. T. Introductory Physics Series) French, Anthony Philip - Special relativity-CRC Press Taylor & Francis Group (2017).pdf",
+    "Resources/Books/Topics/Physics/Mathematical Physics/H. M. Schey - Div, Grad, Curl, and All That_ An Informal Text on Vector Calculus, Fourth Edition-W. W. Norton & Company (2005).pdf",
+    "Resources/Books/Topics/Physics/Waves/Hecht, Eugene - Optics-Pearson Education (2016_2017).pdf",
+    "Resources/Books/Topics/Physics/Mathematical Physics/Mary L. Boas - Mathematical Methods in the Physical Sciences-Wiley (2005).pdf",
+    "Resources/Books/Topics/Physics/Mathematical Physics/Mary L. Boas - Mathematical Methods in the Physical Sciences - Instructor's Answer Book-Wiley (2005).pdf",
+    "Untitled.canvas",
+    "Resources/Pasted image 20230801153147.png",
+    "Resources/Pasted image 20230801153136.png",
+    "Resources/Pasted image 20230801150544.png",
+    "Resources/Pasted image 20230801144302.png",
+    "Resources/Pasted image 20230801135043.png",
+    "Resources/Pasted image 20230731154005.png",
+    "Resources/Pasted image 20230731153614.png",
+    "Resources/Pasted image 20230731143246.png",
+    "Resources/Pasted image 20230731105140.png",
+    "Resources/Pasted image 20230731105117.png"
+  ]
+}

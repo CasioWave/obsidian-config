@@ -1,0 +1,14 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":bowing_man:",
+    ":100:",
+    ":white_check_mark:",
+    ":exclamation:",
+    ":u7121:",
+    ":clock1130:"
+  ]
+}

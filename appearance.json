@@ -1,0 +1,16 @@
+{
+  "accentColor": "#09c8bb",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Overpass",
+  "textFontFamily": "Rubik",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-search-bar",
+    "floating-status-bar",
+    "its-frontmatter",
+    "minimal-cards"
+  ]
+}
